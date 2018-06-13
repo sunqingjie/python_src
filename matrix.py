@@ -1,6 +1,6 @@
 
 # coding:gbk 
-  
+import sys  
 def matrix(n):
     
     block = n - 1  # there are four block in one circle
